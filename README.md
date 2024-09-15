@@ -36,9 +36,6 @@ The Gas Slot Booking App Backend handles user authentication, product selection,
 4. **Gas Booking**: Booking a product.
 5. **Updating payment status**: Updating payment status from default 'Pending' to
 
-## Base URL
-
-**URL** : https://gas-slot-booking-app-backend.onrender.com/
 
 ## Routes
 
@@ -49,14 +46,3 @@ The Gas Slot Booking App Backend handles user authentication, product selection,
 | **Book Gas**              | `POST`     | `/booking`               | Books a gas delivery slot.                   |
 | **Update Payment Status** | `POST`     | `/update-payment-status` | Updates payment status via Razorpay webhook. |
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Backend Source Link
-
-For more details on the Gas Slot Booking App Backend, visit the [GitHub Repository](https://github.com/Ajith-11399/Gas-Slot-booking-app-backend).
-
-## API Documentation - POSTMAN
-
-Explore the API documentation for Gas Slot Booking App Backend on [Postman](https://documenter.getpostman.com/view/35036950/2sA3e2gpiA).
